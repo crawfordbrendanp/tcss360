@@ -1,4 +1,5 @@
 // demy
+//brendan comment
 /*
  * TCSS 342
  * Assignment 1 - Burger Baron 
@@ -12,7 +13,7 @@
  * 
  * 
  * uf;kdsajf;askj
- *
+ * 
  */
 public class Burger {
 	
